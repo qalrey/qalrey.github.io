@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+h2, h3,
+h4 {
+  font-weight: normal;
+}
+
+.discover h2 {
+  font-size: 50px;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h4, a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h3 {
+  font-size: 21px;
+  color: grey;
+}
+
+footer {
+  text-align: right;
+  padding-right: 15px;
+}
